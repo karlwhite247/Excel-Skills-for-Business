@@ -1,0 +1,22 @@
+
+Question 1
+
+To detect whether the values in cells X1, Y1 and Z1 are in ascending order (no ties allowed), the coding for giving an output "Ascending Order" could look like:
+
+=IF(AND(X1<Y1,Y1<Z1),"Ascending Order","")
+
+
+
+Question 2
+
+To detect whether the cells X1, Y1 and Z1 contain a duplicate (2 or more cells with the same value), the coding for giving an output "Duplicate" could look like:
+
+=IF(OR(X1=Y1,Y1=Z1,X1=Z1),"Duplicate","")
+
+
+
+Question 3
+
+To detect whether the cells X1, Y1 and Z1 contain exactly 2 values the same (e.g. X1 and Z1 are the same and Y1 is different), the coding for giving an output "Duplicate" could look like:
+
+=IF(OR(AND(X1=Y1,Y1<>Z1),AND(Y1=Z1,X1<>Y1),AND(X1=Z1,X1<>Y1)),"Duplicate","")

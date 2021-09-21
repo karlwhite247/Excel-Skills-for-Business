@@ -1,0 +1,34 @@
+
+Question 1
+
+For the arguments to the IF function, other IF functions may be embedded within them.
+Of the 3 arguments to the IF function, which can have another IF nested in them?
+
+First argument: logical_test
+Second argument: value_if_true
+Third argument: value_if_false
+
+
+Question 2
+
+To detect whether the cells X1, Y1, and Z1 contain exactly 2 values which are the same (e.g. X1 and Z1 are the same and Y1 is different), the coding for giving an output "Duplicate" could look like:
+
+=IF(X1=Y1,IF(X1=Z1,"","Duplicate"),IF(OR(X1=Z1,Y1=Z1),"Duplicate",""))
+
+
+Question 3
+
+To detect whether the values in cells X1, Y1, and Z1 are in descending order (with no ties), the coding for giving an output "Descending Order" could look like:
+
+=IF(X1>Y1,IF(Y1>Z1,"Descending Order",""),"")
+
+
+Question 4
+
+Consider the code =IF(X1>=Y1,"", IF(Y1>=Z1,"","tick")).
+Supposing the output "tick" is produced, which of the following could be true about X1, Y1, Z1?
+Please note that ties are allowed for this question.
+
+X1, Y1, Z1 are in ascending order.
+
+

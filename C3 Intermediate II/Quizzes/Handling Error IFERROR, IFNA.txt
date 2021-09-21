@@ -1,0 +1,16 @@
+
+
+Question 1
+
+How many input arguments are expected by the IFERROR function?
+
+2 only
+
+
+
+Question 2
+
+Interpret the output from the coding =IFERROR(X1/Y1,"").
+1 / 1 point
+
+This will do a division of X1 by Y1 except when there is an error (eg. Y1=0) when a blank is returned

@@ -1,0 +1,30 @@
+
+Question 1
+
+How many input arguments are expected by the AND function?
+
+Variable
+– up to 255.
+
+
+Question 2
+
+How many input arguments are expected by the OR function?
+
+Variable - up to 255. 
+
+
+
+Question 3
+
+A formula that would give the answer TRUE if the cells X1, Y1, and Z1 are in ascending order (no ties allowed) and FALSE if not might look like:
+
+=AND(X1<Y1,Y1<Z1)
+
+
+
+Question 4
+
+To check for duplicate values (at least 2 cells with the same value) amongst X1, Y1 and Z1, which of the following will give TRUE if there are duplicate values?
+
+=OR(X1=Y1,X1=Z1,Y1=Z1)
