@@ -1,0 +1,67 @@
+
+1	2015
+
+2	2016-03-20
+
+3	bold and blue
+
+4	P2	4307242.05
+	Q2	4429863.16
+
+5	6074344.46
+
+6	6378
+
+7	case 9  - 3323.88
+	case 15 - 3936.27
+	case 20 - 4019.36
+
+8	case 9    - 19943.28
+	all cases - 36459734.19
+
+9	case 9  - 10709.83
+	case 15 - 12754.83
+        case 20 - 6692.18
+
+10 	case 9  - 9233.45
+	case 15 - 10862.77 
+        
+
+11      case 15 - 13256.09
+        case 20 - 6955.18
+
+12	Income net 25
+	Expenditure 75
+
+13	Purple
+
+14	Children 476
+	Adults 629
+
+15
+
+16	Case ID 566
+	Total income 40001.26
+
+17	18.35
+
+18	2
+
+19      H2 - 2857
+	G2 - 3513
+
+20      Eco inactive 27
+	FT working 63
+
+22	2nd lowest Wales
+	4th lowest London
+
+===============================================================================
+
+https://jamdbokhtier.com/excel-skills-for-business-essentials-quiz-answers/
+
+https://www.quizerry.com/2020/12/working-with-data-test-your-skills/
+
+https://www.coursera.org/learn/excel-essentials/exam/bepA8/course-1-final-assessment
+
+===============================================================================
